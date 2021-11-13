@@ -1,0 +1,4 @@
+﻿  Lab7_ErwinLima_1158120_LuisTujab_1103920.cpp
+C:\Users\luisp\Desktop\Landivar\Segundo Año\Cuarto Ciclo\Progra Avanzada\Lab Avanzada\Lab7_ErwinLima_1158120_LuisTujab_1103920\Lab7_ErwinLima_1158120_LuisTujab_1103920\Lab7_ErwinLima_1158120_LuisTujab_1103920.cpp(30,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\luisp\Desktop\Landivar\Segundo Año\Cuarto Ciclo\Progra Avanzada\Lab Avanzada\Lab7_ErwinLima_1158120_LuisTujab_1103920\Lab7_ErwinLima_1158120_LuisTujab_1103920\Lab7_ErwinLima_1158120_LuisTujab_1103920.cpp(36,13): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Lab7_ErwinLima_1158120_LuisTujab_1103920.vcxproj -> C:\Users\luisp\Desktop\Landivar\Segundo Año\Cuarto Ciclo\Progra Avanzada\Lab Avanzada\Lab7_ErwinLima_1158120_LuisTujab_1103920\Debug\Lab7_ErwinLima_1158120_LuisTujab_1103920.exe
